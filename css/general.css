@@ -8,7 +8,7 @@
 @viewport { width: device-width; scale: 1; }
 
 body{
-	font-family: Arial;
+	font-family: Arial, sans-serif;
 }
 
 h1{
