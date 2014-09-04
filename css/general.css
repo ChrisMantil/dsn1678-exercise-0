@@ -21,6 +21,7 @@ figcaption{
 
 blockquote{
 	border: solid 1px gray;
+	width: 100%;
 }
 
 dl{
