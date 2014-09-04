@@ -18,3 +18,11 @@ h1{
 figcaption{
 	font-size:
 }
+
+dt{
+	float:left;
+}
+
+dd{
+	float:left;
+}
