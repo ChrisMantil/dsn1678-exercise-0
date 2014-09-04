@@ -19,6 +19,10 @@ figcaption{
 	font-size:
 }
 
+dl{
+	overflow: hidden;
+}
+
 dt{
 	float:left;
 	clear: left;
